@@ -1,5 +1,3 @@
 # Spam-bot
-This is a bot that spams ig
-   (uses lots of recorces to run so beware)
+This is a bot that spams 
 
-IMAGINE NOT KNOWING HOW TO MAKE THIS XD
